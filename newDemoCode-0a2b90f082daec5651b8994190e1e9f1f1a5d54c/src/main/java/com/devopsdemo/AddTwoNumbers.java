@@ -3,9 +3,9 @@ package com.devopsdemo;
 public class AddTwoNumbers {
 
 	
-	public int addTwoNumbers(int a , int b)
+	public int addTwoNumbers(int c , int b)
 	{
-		return (a+b);
+		return (c+b);
 	}
 	
 	
